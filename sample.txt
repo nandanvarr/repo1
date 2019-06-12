@@ -1,3 +1,6 @@
 sample1
 
 Adding a new thing
+
+this too
+that too
